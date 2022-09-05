@@ -6,4 +6,4 @@ California Housing Train
 # Foi criado um arquivo california_housing.py para pode ser executado pelo docker e para facilitar também foi criado o arquivo deploy_docker.sh para a execução do Dockerfile.
 # Para executar o Dockerfile basta usar o comando bash deploy_docker
 
-# OBS: O sistema operacional que esses arquivos foram testado foi o ubuntu 20.04.5 lts
+# OBS: O sistema operacional que esses arquivos foram testado foi o ubuntu 20.04.5 lts e os arquivos estão na branch develop.
