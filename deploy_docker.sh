@@ -1,0 +1,1 @@
+docker build -t maistodos/python:3.8.10 .
